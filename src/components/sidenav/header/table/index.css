@@ -1,0 +1,51 @@
+.tablehead{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Lucida Console;
+    line-height: 25px;
+    border-top: none;
+    color: rgb(56, 55, 55);
+    background-color: rgb(211, 207, 207);
+}
+.table td, .table th{
+border: none !important;
+}
+.tbl{
+    margin-left: 90px;
+}
+.table td{
+    font-size: 13px;
+    line-height: 24px;
+    font-family: Lucida Console;
+}
+.contactgmail{
+    font-family: Lucidatypewriter;
+    color: grey;
+    
+}
+.table tr:hover{
+    background-color: rgb(238, 238, 238);
+}
+.fornamecircle{
+    font-size: 25px;
+    background-color: turquoise;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.opened{
+    color: white;
+    height: 280px;
+    width: 100%;
+    background-image:linear-gradient( 180deg, rgb(252, 134, 100), rgb(255, 101, 163) ) !important;
+   
+}
+.notopened{
+    height: 0px;
+    width: 0px;
+    display: none;
+    
+}

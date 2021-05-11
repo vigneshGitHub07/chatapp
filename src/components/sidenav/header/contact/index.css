@@ -1,0 +1,17 @@
+.contact{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Lucida Console;
+    line-height: 25px;
+}
+.wellcome{
+    font-size: 13px;
+    line-height: 2px;
+    font-family: Lucidatypewriter;
+}
+.datecreated{
+    font-weight: 500;
+    font-family: Lucida Console;
+    line-height: 25px;
+    font-size: 18px;
+}

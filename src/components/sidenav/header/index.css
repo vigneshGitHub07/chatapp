@@ -1,0 +1,17 @@
+.addp{
+    padding-top: 5px;
+}
+.head{
+    justify-content: space-around;
+    border-bottom: 2px solid rgb(194, 191, 191);
+    color: rgb(83, 82, 82);
+    font-family: Verdana;
+    font-weight: 500;
+    background-color:rgb(241, 234, 234) ;
+}
+.pinkicon{
+    color:  rgb(255, 101, 163)  ;
+}
+.serachicon{
+    color: rgb(83, 82, 82) !important;
+}
